@@ -1,5 +1,5 @@
 div#wrapper {
-	background-color: white;
+	background-color: #FAFAFA;
 	margin-left: auto;
 	margin-right: auto;
 }
@@ -9,7 +9,7 @@ div.clear {
 }
 
 header {
-	background-color: white;
+	background-color: #FAFAFA;
 	color: white;
 	font-size: 15px;
 	text-align:center;
@@ -22,7 +22,7 @@ section {
 	height: 100%;
 	width: 1100px;
 	position: relative;
-	background-color: white;
+	background-color: #FAFAFA;
 	overflow: auto;
 	z-index: 1;
 	font-family: 'Noto Sans HK', sans-serif;
@@ -35,7 +35,7 @@ nav {
     margin-left: 48px;
     width: 160px;
     height: 400px;
-	background-color: white;
+	background-color: #FAFAFA;
 	text-align: left;
 	font-family: 'Noto Sans HK', sans-serif;
 }
